@@ -1,0 +1,9 @@
+<testcase classname="" name="Failing Scenario" time="7778"><failure><![CDATA[I am on the Cucumber.js GitHub repository 
+I click on "CLI" 
+I should see "A failing test"]]></failure></testcase>
+<testcase classname="" name="Passing Scenario" time="2420"><system-out><![CDATA[I am on the Cucumber.js GitHub repository 
+I click on "CLI" 
+I should see "Running specific features"]]></system-out></testcase>
+<testcase classname="" name="Shitting" time="0"><system-out><![CDATA[I go to Google 
+the page loads 
+I expect to see cats]]></system-out></testcase>

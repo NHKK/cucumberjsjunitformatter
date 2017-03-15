@@ -1,0 +1,28 @@
+<testsuites>
+    <testsuite name="Key-Features;Can-see-basic-information" tests="2" failures="1" errors="0" skipped="0" timestamp="--" time="22.476776042">
+        <testcase name="Given I go to &quot;/index&quot; page" classname="Key-Features;Can-see-basic-information" time="22.476776042">
+        </testcase>
+        <testcase name="Then I should see an image" classname="Key-Features;Can-see-basic-information" time="0">
+            <failure message="Undefined step. Implement with the following snippet:">Undefined step. Implement with the following snippet:
+  this.Then(/^I should see an image$/, function(callback) {
+      // Write code here that turns the phrase above into concrete actions
+      callback(null, &apos;pending&apos;);
+  });</failure>
+        </testcase>
+    </testsuite>
+    <testsuite name="Key-Features;Can-see-more" tests="3" failures="1" errors="0" skipped="1" timestamp="--" time="21.828945658">
+        <testcase name="Given I go to &quot;/index&quot; page" classname="Key-Features;Can-see-more" time="21.828945658">
+        </testcase>
+        <testcase name="When I click on &quot;see-more&quot; link" classname="Key-Features;Can-see-more" time="0">
+            <failure message="Undefined step. Implement with the following snippet:">Undefined step. Implement with the following snippet:
+  this.When(/^I click on &quot;see-more&quot; link$/, function(callback) {
+      // Write code here that turns the phrase above into concrete actions
+      callback(null, &apos;pending&apos;);
+  });</failure>
+        </testcase>
+        <testcase name="Then I should be in &quot;/see-more&quot; page" classname="Key-Features;Can-see-more" time="0">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+</testsuites>
