@@ -1,3 +1,3 @@
 To run cucumber js with output
 
-./node_modules/.bin/cucumber-js --format=jso | tee wow.json
+./node_modules/.bin/cucumber-js --format=junit | tee report.xml
