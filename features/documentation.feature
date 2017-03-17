@@ -13,7 +13,7 @@ Feature: Example feature
     When I click on "CLI"
     Then I should see "Running specific features"
 
-  Scenario: Shitting
+  Scenario: Test Fake Scenario
     Given I go to Google
     When the page loads
     Then I expect to see cats
